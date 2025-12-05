@@ -1,4 +1,5 @@
 """
+【黑马程序员python零基础全套教程，8天python从入门到精通，学python看这套就够了-哔哩哔哩】 https://b23.tv/7eUkLEg
 p18 数据类型转换
 """
 num_str = str(11)

@@ -1,6 +1,7 @@
 '''
 黑马程序员python零基础全程教程， 8 天python从入门到精通，学python看这套就够了
  for blackhorse_python1
+ 字面量：   literal
 '''
 # p17 查看数据类型
 
